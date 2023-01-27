@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbae6eba-b0da-4325-b20f-5a572a7c989f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/InstrumentTypes/GuitarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/InstrumentTypes/InstrumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/InstrumentTypes/PianoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/InstrumentTypes/SaxaphoneType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/InstrumentTypes/TrumpetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/Saxophone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Instruments/Trumpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Interfaces/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Interfaces/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/BluesBrothersCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/DooWopHorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/RaysSpecialKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/SavourySaxophone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/SeagullS6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/Inventory/SweetHomeChicagoSheetMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RaysMusicExchange/RaysMusicExchangeShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RaysMusicExchange/Inventory/BluesBrothersCDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RaysMusicExchange/Inventory/DooWopHornTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RaysMusicExchange/Inventory/SavourySaxophoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RaysMusicExchange/Inventory/SeagullS6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RaysMusicExchange/RaysMusicExchangeShopTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KuV8mIkq5I1ZdNdiuaZuf0eZiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="RaysMusicExchange.Inventory" />
+      <recent name="RaysMusicExchange" />
+      <recent name="RaysMusicExchange.Instruments" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RaysMusicExchange in RaysMusicExchange">
+    <configuration name="RaysMusicExchange in RaysMusicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RaysMusicExchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RaysMusicExchange" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaysMusicExchange.Inventory in RaysMusicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RaysMusicExchange" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RaysMusicExchange.Inventory.*" />
+          <option name="ENABLED" value="false" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="RaysMusicExchange.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RaysMusicExchange.Inventory" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RaysMusicExchange in RaysMusicExchange" />
+      <item itemvalue="JUnit.RaysMusicExchange.Inventory in RaysMusicExchange" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RaysMusicExchange in RaysMusicExchange" />
+        <item itemvalue="JUnit.RaysMusicExchange.Inventory in RaysMusicExchange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbae6eba-b0da-4325-b20f-5a572a7c989f" name="Changes" comment="" />
+      <created>1674824298924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674824298924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RaysMusicExchange$RaysMusicExchange_in_RaysMusicExchange.ic" NAME="RaysMusicExchange in RaysMusicExchange Coverage Results" MODIFIED="1674846657242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RaysMusicExchange.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/RaysMusicExchange$RaysMusicExchange_Inventory_in_RaysMusicExchange.ic" NAME="RaysMusicExchange.Inventory in RaysMusicExchange Coverage Results" MODIFIED="1674839656751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RaysMusicExchange.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/RaysMusicExchange$DooWopHornTest.ic" NAME="DooWopHornTest Coverage Results" MODIFIED="1674846611136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>RaysMusicExchange.Inventory.*</FILTER>
+    </SUITE>
+  </component>
+</project>
